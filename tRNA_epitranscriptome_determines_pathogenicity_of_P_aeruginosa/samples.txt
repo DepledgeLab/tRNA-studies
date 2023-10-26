@@ -1,0 +1,5 @@
+condition
+tngidA_1	tngidA
+tngidA_2	tngidA
+tnladS_1	tnladS
+tnladS_2	tnladS
